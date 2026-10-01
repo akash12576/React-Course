@@ -37,7 +37,7 @@ export default function Home() {
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://images.pexels.com/photos/39795008/pexels-photo-39795008.jpeg?_gl=1*12mpony*_ga*NjE3MzI0MDc5LjE3NzQ4NTc0Mzc.*_ga_8JE65Q40S6*czE3OTA4NjcyMzgkbzYkZzEkdDE3OTA4NjcyNzgkajIwJGwwJGgw" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
