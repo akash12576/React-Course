@@ -2,9 +2,9 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}", // <--- Makes sure Tailwind scans Card.jsx
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: "class", // Required for ThemeSwitcher project
+  darkMode: "class", // <--- CRITICAL FOR TOGGLE TO WORK
   theme: {
     extend: {},
   },
